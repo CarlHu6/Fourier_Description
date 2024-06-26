@@ -260,4 +260,9 @@ REPOSITORIES: Dict[str, Repository] = {
         commit="9a6a057a055babaf47119fac42c361fffc189128",
         cache_path="skydio_x2_description",
     ),
+    "gr1_description": Repository(
+        url="https://github.com/FFTAI/Wiki-GRx-Gazebo.git",
+        commit="36170420c2eaa9ca5c0cad7a0c4abdfee2344efe",
+        cache_path="gr1_description",
+    ),
 }
