@@ -265,4 +265,9 @@ REPOSITORIES: Dict[str, Repository] = {
         commit="36170420c2eaa9ca5c0cad7a0c4abdfee2344efe",
         cache_path="gr1_description",
     ),
+    "gr1_mj_description": Repository(
+        url="https://github.com/Harry-maximum/gr1_mujoco.git",
+        commit="45fbd8a66efa2fe146517728cafbc54d7b2e573e",
+        cache_path="gr1_mj_description",
+    )
 }
