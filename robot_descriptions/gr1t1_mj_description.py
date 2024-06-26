@@ -16,4 +16,4 @@ REPOSITORY_PATH: str = _clone_to_cache(
 PACKAGE_PATH: str = _path.join(REPOSITORY_PATH, "gr1t1")
 
 
-URDF_PATH: str = _path.join(PACKAGE_PATH, "gr1t1.xml")
+MJCF_PATH: str = _path.join(PACKAGE_PATH, "gr1t1.xml")
